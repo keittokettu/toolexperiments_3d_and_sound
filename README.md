@@ -27,7 +27,11 @@ _https://www.youtube.com/watch?v=TXyueQlKOv8_
 
 _failed google maps -> 3d model attempt. something about the camera not moving naturally.._
 
+https://github.com/user-attachments/assets/50da44dc-e3d3-424f-9e0e-b47a40a004fd
+
 https://github.com/user-attachments/assets/88a3ff56-9d26-497d-8619-a34b8941b471
+
+
 
 _parallex effect in view– a model originating from a steady video i had shot outside a train window._
 
