@@ -1,6 +1,5 @@
 # experiments in tool-research: 3d and sound
 
-## preface
 i came into this wanting to explore 3d stuff, and sound stuff.. and indeed i did! here are some findings:
 
 ## 3d bits
@@ -15,7 +14,11 @@ but then took interest in how KIRI renders a space depicted in frames from a vid
 
 
 ## sound bits
-a parallel 
+a parallel interest of mine were sound and music-related tools– i thought of it as a foil to how many visually oriented tools we had encountered in class and how those seemed to dominate the 'AI mainstream' (other than let's say voice cloning/generated speech tools). i mainly focused on tinkering with:
+
+# _Audimee - https://audimee.com/_
+
+# ElevenLabs - https://elevenlabs.io/_
 
 https://github.com/user-attachments/assets/806f924d-b423-4f30-9472-aebbf32fcfbb
 
