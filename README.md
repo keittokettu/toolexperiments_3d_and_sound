@@ -47,7 +47,7 @@ this led to my interests shifting towards (single) image-to-model AI workflows a
 
 ## 3d bits (2)
 
-hehe
+i then began exploration into tools hosted on HuggingFace and RunComfy/ComfyUI. 
 
 .
 .
