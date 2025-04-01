@@ -16,6 +16,7 @@ https://github.com/user-attachments/assets/d170a353-085d-430c-bf44-e4a33b8c10e0
 _the above model brought into an existing Unity file i had lying around_
 
 
+
 but then took interest in how KIRI renders a space depicted in frames from a video, pulled either from my own records or from online sources:
 
 
