@@ -37,15 +37,20 @@ https://github.com/user-attachments/assets/88a3ff56-9d26-497d-8619-a34b8941b471
 _parallex effect in view– a model originating from a steady video i had shot outside a train window._
 
 .
-.
 
 i got a sense for the weak points of this method, and just how much effort it required. KIRI's photogrammetry features, while AI-assisted, still required some amount of 35+ photos to be functional, and taking the photos physically or screenshotting and advancing 70 frames got tiring quick. 
 
 this led to my interests shifting towards (single) image-to-model AI workflows and tools. i wanted to exploit the weirdness of dimensional guesswork, given only one view of an object, and see what funk it would produce. and, i wanted to work with my craigslist free stuff collection (see https://github.com/keittokettu/craigslist_freestuff_repo/), to see if i could bring these objects back to physical existence: take the images, 3d-ify them, and then 3d print them so they live anew. and so,
 
+.
+.
+
 ## 3d bits (2)
 
 hehe
+
+.
+.
 
 ## sound bits
 a parallel interest of mine were sound and music-related tools– i thought of it as a foil to how many visually oriented tools we had encountered in class and how those seemed to dominate the 'AI mainstream' (other than let's say voice cloning/generated speech tools). i mainly focused on tinkering with:
@@ -62,6 +67,8 @@ https://github.com/user-attachments/assets/613696f2-59d8-451f-ba1a-a514c0f95b9b
 
 _experiments in harmony generation with Audimee, using an existing sound i had made in Ableton with a train whistle sample. it's nicest when it acts least like a real singing voice._
 
+.
+
 i then moved on to **ElevenLabs** and had a way better time. it has some formidable speech tools, but i focused on its "sound effects" feature. there's a nice toggle that allows you to control the percentage of faithfulness with which it follows your prompt. i think this is a great way to introduce some crunk and texture into generated sounds. here are some nice generation results (1), and then a short beat made from only these samples. i wish to extend this workflow of sampling my generations into my final project, or at least into further play and exploration.
 
 https://github.com/user-attachments/assets/faf08c2d-a48b-44e1-a30c-2b8092994533
@@ -72,6 +79,9 @@ https://github.com/user-attachments/assets/806f924d-b423-4f30-9472-aebbf32fcfbb
 
 _(2)_
 
+.
+.
+.
 
 **P.S.** some useful supplementary tools i encountered were:
 - _heic to jpg converter_ (https://picflow.com/convert/heic-to-jpg) - used during my KIRI Engine explorations, since i was taking a lot of images on my (i)phone and they were in an obtuse heic file. jpgs can be read better!
