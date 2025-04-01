@@ -1,5 +1,4 @@
 # experiments in tool-research: 3d and sound
-.
 
 i came into this wanting to explore 3d stuff, and sound stuff.. and indeed i did! here was some of what i got up to:
 
@@ -20,7 +19,6 @@ https://github.com/user-attachments/assets/d170a353-085d-430c-bf44-e4a33b8c10e0
 _the above model brought into an existing Unity file i had lying around_
 
 .
-. 
 
 i then took interest in how KIRI renders a space depicted in frames from a video, pulled either from my own records or from online sources. some aspects of horizontally steady video (such as parallax effect) and shortcomings of google maps images (cruddy models) reflect in KIRI's outputs.
 
