@@ -28,6 +28,7 @@ a parallel interest of mine were sound and music-related tools– i thought of i
 (excuse the weird blank video files– github didn't like my .wav files and this was the easiest way to stick audio into this repo.)
 
 https://github.com/user-attachments/assets/613696f2-59d8-451f-ba1a-a514c0f95b9b
+
 experiments in harmony generation with Audimee, using an existing sound i had made in Ableton with a train whistle sample. it's nicest when it acts least like a real singing voice.
 
 i then moved on to **ElevenLabs** and had a way better time. it has some formidable speech tools, but i focused on its "sound effects" feature. there's a nice toggle that allows you to control the percentage of faithfulness with which it follows your prompt. i think this is a great way to introduce some crunk and texture into generated sounds. here are some nice generation results (1), and then a short beat made from only these samples. i wish to extend this workflow of sampling my generations into my final project, or at least into further play and exploration.
@@ -36,6 +37,7 @@ i then moved on to **ElevenLabs** and had a way better time. it has some formida
 (1)
 
 https://github.com/user-attachments/assets/806f924d-b423-4f30-9472-aebbf32fcfbb
+
 (2)
 
 
