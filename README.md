@@ -7,6 +7,13 @@ i started my explorations with KIRI Engine (https://www.kiriengine.app/), which 
 
 i started straightforwardly with scanning real-life people, objects, and spaces...
 
+<img width="833" alt="Screen Shot 2025-03-25 at 21 23 25" src="https://github.com/user-attachments/assets/2841bf44-caad-4254-a2a7-af87d9aaabbd" />
+
+_my studio in 3d space!_
+
+https://github.com/user-attachments/assets/d170a353-085d-430c-bf44-e4a33b8c10e0
+
+_the above model brought into an existing Unity file i had lying around_
 
 
 but then took interest in how KIRI renders a space depicted in frames from a video, pulled either from my own records or from online sources:
@@ -41,4 +48,9 @@ https://github.com/user-attachments/assets/806f924d-b423-4f30-9472-aebbf32fcfbb
 
 _(2)_
 
+
+**P.S.** some useful supplementary tools i encountered were:
+- _heic to jpg converter_ (https://picflow.com/convert/heic-to-jpg) - used during my KIRI Engine explorations, since i was taking a lot of images on my (i)phone and they were in an obtuse heic file. jpgs can be read better!
+- _glb to obj converter_(https://convert3d.org/glb-to-obj) - some 3d model gen tools output as glbs; for use in Unity, Blender, and 3-d printing, this site works well for converting in between 3d formats.
+- _compression_ (https://www.freeconvert.com/video-compressor/download) - files can get a little too big sometimes.
 
