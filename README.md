@@ -1,6 +1,10 @@
 # experiments in tool-research: 3d and sound
+.
 
 i came into this wanting to explore 3d stuff, and sound stuff.. and indeed i did! here was some of what i got up to:
+
+.
+.
 
 ## 3d bits (1)
 i started my explorations with KIRI Engine (https://www.kiriengine.app/), which offers a variety of tools; what interested me most was its photogrammetry-esque "Photo Scan" (https://www.kiriengine.app/features/photo-scan). i think it exists at a nice and crunky middle point in between photogrammetry and ai/intelligent guesswork as to what an object should look like in 3-dimensional space. 
