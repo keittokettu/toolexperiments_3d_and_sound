@@ -16,8 +16,21 @@ https://github.com/user-attachments/assets/d170a353-085d-430c-bf44-e4a33b8c10e0
 _the above model brought into an existing Unity file i had lying around_
 
 
+.
+i then took interest in how KIRI renders a space depicted in frames from a video, pulled either from my own records or from online sources. some aspects of horizontally steady video (such as parallax effect) and shortcomings of google maps images (cruddy models) reflect in KIRI's outputs.
 
-but then took interest in how KIRI renders a space depicted in frames from a video, pulled either from my own records or from online sources:
+<img width="1431" alt="Screen Shot 2025-03-25 at 21 42 17" src="https://github.com/user-attachments/assets/74698384-5028-498f-9fc3-4f92c1334c54" />
+
+_https://www.youtube.com/watch?v=TXyueQlKOv8_
+
+<img width="973" alt="Screen Shot 2025-03-26 at 23 46 25" src="https://github.com/user-attachments/assets/b685f83f-ba11-4cbd-af62-4157ac202700" />
+
+_failed google maps -> 3d model attempt. something about the camera not moving naturally.._
+
+https://github.com/user-attachments/assets/88a3ff56-9d26-497d-8619-a34b8941b471
+
+_parallex effect in view– a model originating from a steady video i had shot outside a train window._
+
 
 
 this led 
