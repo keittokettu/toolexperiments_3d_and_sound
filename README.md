@@ -32,15 +32,18 @@ https://github.com/user-attachments/assets/50da44dc-e3d3-424f-9e0e-b47a40a004fd
 
 https://github.com/user-attachments/assets/88a3ff56-9d26-497d-8619-a34b8941b471
 
-
-
 _parallex effect in view– a model originating from a steady video i had shot outside a train window._
 
+.
+.
 
+i got a sense for the weak points of this method, and just how much effort it required. KIRI's photogrammetry features, while AI-assisted, still required some amount of 35+ photos to be functional, and taking the photos physically or screenshotting and advancing 70 frames got tiring quick. 
 
-this led 
+this led to my interests shifting towards (single) image-to-model AI workflows and tools. i wanted to exploit the weirdness of dimensional guesswork, given only one view of an object, and see what funk it would produce. and, i wanted to work with my craigslist free stuff collection (see https://github.com/keittokettu/craigslist_freestuff_repo/), to see if i could bring these objects back to physical existence: take the images, 3d-ify them, and then 3d print them so they live anew. and so,
 
 ## 3d bits (2)
+
+hehe
 
 ## sound bits
 a parallel interest of mine were sound and music-related tools– i thought of it as a foil to how many visually oriented tools we had encountered in class and how those seemed to dominate the 'AI mainstream' (other than let's say voice cloning/generated speech tools). i mainly focused on tinkering with:
