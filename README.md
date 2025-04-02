@@ -47,7 +47,18 @@ this led to my interests shifting towards (single) image-to-model AI workflows a
 
 ## 3d bits (2)
 
-i then began exploration into tools hosted on HuggingFace and RunComfy/ComfyUI. 
+i then began exploring tools hosted on HuggingFace and RunComfy/ComfyUI that handle generation of a 3d model from a single image. with the former, i most played around with Image to 3D (https://huggingface.co/spaces/themanfrom/image-to-3d), and found it to be a credible tool:
+
+<img width="513" alt="Screen Shot 2025-03-26 at 23 36 39" src="https://github.com/user-attachments/assets/ecd94562-f97e-419e-b66c-33b6731547b2" />
+<img width="511" alt="Screen Shot 2025-03-26 at 23 36 04" src="https://github.com/user-attachments/assets/72ba866b-e469-4eac-8067-23f803d92491" />
+
+_a craigslist free male rat 3d-ified with Image to 3D._
+
+<img width="453" alt="Screen Shot 2025-03-26 at 23 35 18" src="https://github.com/user-attachments/assets/9f89d4bc-ff91-4ae7-8623-1559a5f57674" />
+<img width="436" alt="Screen Shot 2025-03-26 at 23 34 43" src="https://github.com/user-attachments/assets/3cc9fcf9-fa0a-46c0-bffb-6d8251e750e4" />
+
+_a craigslist chair 3d-ified with Image to 3D. note the charmingly bad object isolation when this tools encounters a confusing scene._
+
 
 .
 .
@@ -65,11 +76,11 @@ a parallel interest of mine were sound and music-related tools– i thought of i
 
 https://github.com/user-attachments/assets/613696f2-59d8-451f-ba1a-a514c0f95b9b
 
-_experiments in harmony generation with Audimee, using an existing sound i had made in Ableton with a train whistle sample. it's nicest when it acts least like a real singing voice._
+_experiments in harmony generation with Audimee, using an existing sound i had made in Ableton with a train whistle sample. it's nicest when it acts the least like a real singing voice._
 
 .
 
-i then moved on to **ElevenLabs** and had a way better time. it has some formidable speech tools, but i focused on its "sound effects" feature. there's a nice toggle that allows you to control the percentage of faithfulness with which it follows your prompt. i think this is a great way to introduce some crunk and texture into generated sounds. here are some nice generation results (1), and then a short beat made from only these samples. i wish to extend this workflow of sampling my generations into my final project, or at least into further play and exploration.
+i then moved on to **ElevenLabs** and had a way better time. it has some formidable speech tools, but i focused on its "sound effects" feature. there's a nice toggle that allows you to control the percentage of faithfulness with which it follows your prompt. i think this is a great way to introduce some crunk and texture into generated sounds. here are some nice generation results _(1)_, and then a short beat _(2)_ made from purely these samples. i wish to extend this workflow of sampling my generations into my final project, or at least into further play and exploration.
 
 https://github.com/user-attachments/assets/faf08c2d-a48b-44e1-a30c-2b8092994533
 
