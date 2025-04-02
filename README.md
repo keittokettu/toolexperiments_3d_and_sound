@@ -105,7 +105,7 @@ _experiments in harmony generation with Audimee, using an existing sound i had m
 
 .
 
-i then moved on to **ElevenLabs** and had a way better time. it has some formidable speech tools, but i focused on its "sound effects" feature. there's a nice toggle that allows you to control the percentage of faithfulness with which it follows your prompt. i think this is a great way to introduce some crunk and texture into generated sounds. here are some nice generation results _(1)_, and then a short beat _(2)_ made from purely these samples. i wish to extend this workflow of sampling my generations into my final project, or at least into further play and exploration.
+i then moved on to **ElevenLabs** and had a way better time. it has some formidable speech tools, but i focused on its "sound effects" feature. there's a nice toggle that allows you to control the percentage of faithfulness with which it follows your prompt. i think this is a great way to introduce some crunk and texture into generated sounds. here are some nice generation results _(1)_, and then a short beat _(2)_ made from purely these samples. i wish to extend this workflow of sampling my generations into my final project, or at least into further play and exploration. the compressed folder of all the generated samples is also on this repo, if you wish to use these sounds yourself.
 
 https://github.com/user-attachments/assets/faf08c2d-a48b-44e1-a30c-2b8092994533
 
