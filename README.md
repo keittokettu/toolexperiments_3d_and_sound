@@ -61,8 +61,13 @@ _3d-ification results of above, with Image to 3D. note the charmingly bad object
 
 .
 
-my main roadblocks with this tool were quickly expiring daily HuggingFace credits and a lack of fine tuning controls. both naturally led me to ComfyUI (using the https://www.runcomfy.com/ cloud-hosted build of it), and tools which others have developed for it. after some confusion with downloading custom nodes, i discovered that pre-made workflows found in https://www.runcomfy.com/comfyui/1bb0f87f-8d29-4b90-8298-ae18ba9627d8 
+my main roadblocks with this tool were quickly expiring daily HuggingFace credits and a lack of fine tuning controls. both naturally led me to ComfyUI (using the https://www.runcomfy.com/ cloud-hosted build of it), and tools which others have developed for it. after some confusion with downloading custom nodes, i discovered that pre-made workflows in https://www.runcomfy.com/comfyui/1bb0f87f-8d29-4b90-8298-ae18ba9627d8 contain working and easy-to-launch workflows of different 3d diffusion models. i worked with:
 
+- _Hunyuan3D-2_ - https://www.runcomfy.com/comfyui-workflows/hunyuan3d-2-workflow-in-comfyui-create-3d-assets-from-images /
+
+- _Stable Fast 3D_ - https://www.runcomfy.com/comfyui-workflows/create-3d-content-with-stable-fast-3d-model / https://github.com/MrForExample/ComfyUI-3D-Pack/tree/main
+
+i found Stable Fast to be a little crummy, and gave me results i didn't feel worked for me, and so i have gravitated towards preferring Hunyuan's outputs.
 .
 .
 
