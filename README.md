@@ -52,13 +52,16 @@ i then began exploring tools hosted on HuggingFace and RunComfy/ComfyUI that han
 <img width="513" alt="Screen Shot 2025-03-26 at 23 36 39" src="https://github.com/user-attachments/assets/ecd94562-f97e-419e-b66c-33b6731547b2" />
 <img width="511" alt="Screen Shot 2025-03-26 at 23 36 04" src="https://github.com/user-attachments/assets/72ba866b-e469-4eac-8067-23f803d92491" />
 
-_a craigslist free male rat 3d-ified with Image to 3D._
+_base images from my craiglist free stuff collection, a chair and a free male rat._
 
 <img width="453" alt="Screen Shot 2025-03-26 at 23 35 18" src="https://github.com/user-attachments/assets/9f89d4bc-ff91-4ae7-8623-1559a5f57674" />
 <img width="436" alt="Screen Shot 2025-03-26 at 23 34 43" src="https://github.com/user-attachments/assets/3cc9fcf9-fa0a-46c0-bffb-6d8251e750e4" />
 
-_a craigslist chair 3d-ified with Image to 3D. note the charmingly bad object isolation when this tools encounters a confusing scene._
+_3d-ification results of above, with Image to 3D. note the charmingly bad object isolation when this tool encounters a visually confusing scene._
 
+.
+
+my main roadblocks with this tool were quickly expiring daily HuggingFace credits and a lack of fine tuning controls. both naturally led me to ComfyUI (using the https://www.runcomfy.com/ cloud-hosted build of it), and tools which others have developed for it. after some confusion with downloading custom nodes, i discovered that pre-made workflows found in https://www.runcomfy.com/comfyui/1bb0f87f-8d29-4b90-8298-ae18ba9627d8 
 
 .
 .
