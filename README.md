@@ -67,7 +67,24 @@ my main roadblocks with this tool were quickly expiring daily HuggingFace credit
 
 - _Stable Fast 3D_ - https://www.runcomfy.com/comfyui-workflows/create-3d-content-with-stable-fast-3d-model / https://github.com/MrForExample/ComfyUI-3D-Pack/tree/main
 
-i found Stable Fast to be a little crummy, and gave me results i didn't feel worked for me, and so i have gravitated towards preferring Hunyuan's outputs.
+i found Stable Fast to be a little crummy, and gave me results i didn't feel worked for me, and so i have gravitated towards preferring Hunyuan's outputs. Stable Fast, for future reference, requires images to be pngs containing some transparency, ideally isolating the intended 'object' to model. Hunyuan has some nodes which handle this masking for you, which i prefer. there is some room for tinkering with insertion of nodes or manipulating parameters of the patch which i have yet to do, but i have these generated examples from a variety of sources:
+
+<img width="430" alt="Screen Shot 2025-04-01 at 17 54 14" src="https://github.com/user-attachments/assets/26a26e7c-c6e1-481b-8d99-2d4363c10cc9" />
+
+_selfie on zoom– exploring how this workflow renders flatness (aka. when an object is not clearly determinable and the scene is read as one flat image object)_
+
+<img width="630" alt="Screen Shot 2025-04-01 at 18 01 52" src="https://github.com/user-attachments/assets/52b16da8-3d26-4f43-80d0-2f5ac54c0f34" />
+
+_craigslist stumps_
+
+<img width="704" alt="Screen Shot 2025-04-01 at 18 07 11" src="https://github.com/user-attachments/assets/75a9b21f-529f-4ee0-927f-7315389b9061" />
+
+_maxmsp split-scan sketch which made my body wonky; reflects well in the resulting model_
+
+https://github.com/user-attachments/assets/5870be71-4388-4cb5-be13-81d51ece71f6
+
+_craigslist cats_
+
 .
 .
 
@@ -82,7 +99,7 @@ a parallel interest of mine were sound and music-related tools– i thought of i
 
 (excuse the weird blank video files– github didn't like my .wav files and this was the easiest way to stick audio into this repo.)
 
-https://github.com/user-attachments/assets/613696f2-59d8-451f-ba1a-a514c0f95b9b
+https://github.com/user-attachments/assets/9006f3c6-4eda-449e-9d04-eea4a1049734
 
 _experiments in harmony generation with Audimee, using an existing sound i had made in Ableton with a train whistle sample. it's nicest when it acts the least like a real singing voice._
 
@@ -94,7 +111,7 @@ https://github.com/user-attachments/assets/faf08c2d-a48b-44e1-a30c-2b8092994533
 
 _(1)_
 
-https://github.com/user-attachments/assets/806f924d-b423-4f30-9472-aebbf32fcfbb
+https://github.com/user-attachments/assets/7522f52f-7ce8-4169-bfac-a767538a5a48
 
 _(2)_
 
